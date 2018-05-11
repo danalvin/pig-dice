@@ -1,0 +1,46 @@
+h1 {
+  text-align: center;
+  color: gold;
+}
+welcome {
+  width: auto;
+  height: 250px;
+  text-shadow: 50px;
+}
+
+#displaydice {
+  font-size: 10em;
+  padding: 0;
+  margin: 0;
+  height: 120px;
+}
+
+#main {
+  text-align: center;
+}
+
+body {
+  background-image: url("../images/5.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ff003e;
+  background-color: black;
+}
+li,h2{
+  color: white;
+}
+p{
+  font-size: 30px;
+  color: silver;
+}
+h4{
+  color: white;
+}
+h3{
+  color: #D68910;
+
+}
+.created {
+color: white;
+text-align: center;
+}
