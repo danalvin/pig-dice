@@ -20,21 +20,24 @@ welcome {
 }
 
 body {
-  background-image: url("../images/5.jpg");
+  background-image: ;
   background-repeat: no-repeat;
   background-size: cover;
   color: #ff003e;
-  background-color: black;
+  filter: grayscale(100%)
+ font-size:90px;
+  background-color:white;
 }
 li,h2{
-  color: white;
+  color: black;
+
 }
 p{
   font-size: 30px;
   color: silver;
 }
 h4{
-  color: white;
+  color: #D68910;
 }
 h3{
   color: #D68910;
@@ -43,4 +46,27 @@ h3{
 .created {
 color: white;
 text-align: center;
+}
+ul li{
+	text-align: center;
+	text-decoration: none;
+	list-style: none;
+}
+p {
+	text-align: center;
+}
+img {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+}
+h1 {
+	margin-left: 0%;
+	margin-right: 
+}
+#welcome{
+	text-align: center;
+}
+.created{
+	color: black;
+	text-align: center;
+	
 }

@@ -1,4 +1,4 @@
-//Business logic
+
 var Pig = {
   player1: 0,
   player2: 0,
