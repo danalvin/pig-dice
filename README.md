@@ -1,12 +1,13 @@
-# {Pig-dice}
+# Pig-dice
 
-#### {It's a interesting digital dice game}, {11th-May-2018}
+#### It's a interesting digital dice game, 11th-May-2018
 
-#### By **{Dan Alvin}**
+#### By **Dan Alvin**
 
 ## Description
 
-This is a game where two players roll a dice and they can hold to take turn s. the first player to reach a hundred points wins the game. 
+This is a game where two players roll a dice and they can hold to take turns. the first player to reach a hundred points wins the game. 
+<img src="images/667.jpeg">
 
 ## Setup/Installation Requirements
 
@@ -29,6 +30,6 @@ javasript
  for any question or comment feel free to contact me using the following email mungaiwaituika@gmail.com
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*Determine the license under which this application can be used.  See below for more details on licensing.*
 
-Copyright (c) {2018} **{Dan Alvin}**
+Copyright c 2018 **Dan Alvin**
